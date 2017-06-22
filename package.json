@@ -1,0 +1,17 @@
+{
+  "name": "healpay-practice-project",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha test"
+  },
+  "author": "mike scoboria",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.3",
+    "node-sass-middleware": "^0.11.0",
+    "pug": "^2.0.0-rc.2"
+  }
+}
